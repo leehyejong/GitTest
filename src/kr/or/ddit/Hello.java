@@ -6,7 +6,7 @@ public class Hello {
 		System.out.println("hello, git");
        // 주석 추가ㄴ
 		String str ="git 배우고있어요";
-		//수정
+		//수정수정
 	}
 
 }
